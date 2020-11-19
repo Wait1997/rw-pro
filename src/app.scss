@@ -1,0 +1,13 @@
+/*app样式*/
+.app {
+  height: 100%;
+  width: 100%;
+  background-color: pink;
+  font-size: 20px;
+  color: orangered;
+  background: url('./assets/1-2.jpg');
+  .imgs {
+    width: 200px;
+    height: 200px;
+  }
+}
